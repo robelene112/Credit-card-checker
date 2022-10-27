@@ -7,7 +7,7 @@
 ---
 
 <p>
-This was done as a challenge project on codecademy. Each array was made up of digits that together formed a credit card number. We were given 5 valid arrays, 5 invalid arrays and 5 arrays of which we did not know whether they were valid or invalid until we ran the array through the algorithm. We were also given a nested array that contained all the above mentioned arrays. The project consists of a total of three functions. 
+This was done as a challenge project on codecademy. Each array was made up of digits that together formed a credit card number. I was given 5 valid arrays, 5 invalid arrays and 5 arrays of which I did not know whether they were valid or invalid until I ran the array through the algorithm. I was also given a nested array that contained all the above mentioned arrays. The project consists of a total of three functions. 
 </p>
 
 <br>
