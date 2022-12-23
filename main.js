@@ -85,7 +85,7 @@ function findInvalidCards(nestarr) {
 
 function idInvalidCompanies(invalidarr) {
   let companies = {
-    3: "Amex (American Express",
+    3: "Amex (American Express)",
     4: "Visa",
     5: "Mastercard",
     6: "Discover",
@@ -103,4 +103,6 @@ function idInvalidCompanies(invalidarr) {
   return faultycompanies;
 }
 
-console.log(idInvalidCompanies(findInvalidCards(batch)));
+// console.log(idInvalidCompanies(findInvalidCards(batch)));
+
+module.exports = { validateCred, findInvalidCards, idInvalidCompanies };

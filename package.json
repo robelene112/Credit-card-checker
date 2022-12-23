@@ -1,0 +1,22 @@
+{
+  "name": "credit-card-checker-starter",
+  "version": "1.0.0",
+  "description": "<br>",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robelene112/Credit-card-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robelene112/Credit-card-checker/issues"
+  },
+  "homepage": "https://github.com/robelene112/Credit-card-checker#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
